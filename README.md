@@ -1,108 +1,93 @@
-```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Nourhan%20Adel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Nourhan%20Adel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 # Hi 👋, I'm Nourhan Adel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;Always+Learning+New+Technologies" />
 
-<p>
-Passionate about building modern, scalable, and user-friendly web applications.
-</p>
+Front-End Developer passionate about building modern, scalable, and user-friendly web applications.
 
-<p>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nourhann-shalaby/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourhanadel1768@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science & Engineering Graduate
-- 💻 Front-End Developer specializing in **React, Next.js, and TypeScript**
+- 💻 Front-End Developer specializing in **React, Next.js & TypeScript**
 - ⚙️ Building full-stack applications using the **MERN Stack**
-- 🚀 Passionate about clean code, performance, and modern UI/UX
-- 🌱 Currently learning **AWS** and **System Design**
+- 🌱 Learning **AWS** & **System Design**
+- 🎯 Passionate about clean code, performance and UI/UX
 
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,redux" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,npm,vercel" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- **GoRent** – Full-stack rental platform (Next.js, Express.js, MongoDB, Docker)
+- **Healing** – Healthcare platform with maps, authentication, notifications and real-time features.
+- **Earth Observation Dashboard** – Interactive mapping dashboard using React and Leaflet.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NourhanAdel123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourhanAdel123&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NourhanAdel123&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NourhanAdel123&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NourhanAdel123&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/NourhanAdel123"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/nourhann-shalaby/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:nourhanadel1768@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+## 🐍 Contribution Snake
+
+> Enable the included GitHub Action, then this image will animate.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NourhanAdel123/NourhanAdel123/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <div align="center">
-
-### Thanks for visiting! ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,100:06B6D4"/>
 </div>
-```
